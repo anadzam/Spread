@@ -71,7 +71,7 @@ class LoginViewController: UIViewController {
         return button
     }()
     
-    
+    //test
     //    private let facebookLoginButton = FBLoginButton()
     
     private let facebookLoginButton: FBLoginButton = {
